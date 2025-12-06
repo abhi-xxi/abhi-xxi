@@ -10,7 +10,7 @@ I enjoy learning new technologies and building projects that help me improve.
 - Strengthening my programming basics
 
 ## 🛠️ Tools & Languages
-- C++, Python, C, JavaScript  
+- C, C++, Python, JavaScript  
 - Learning Linux, web dev tools, and beginner-friendly AI frameworks
 
 ## 📫 How to Reach Me
