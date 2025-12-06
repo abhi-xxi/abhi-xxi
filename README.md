@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abhinav 👋
 
-<!--
-**abhi-xxi/abhi-xxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer interested in **web development**, **AI**, and **Linux**.  
+I enjoy learning new technologies and building projects that help me improve.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- Small web development projects  
+- Learning AI fundamentals  
+- Studying Linux and practicing command-line skills  
+- Strengthening my programming basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Languages
+- C++, Python, C, JavaScript  
+- Learning Linux, web dev tools, and beginner-friendly AI frameworks
+
+## 📫 How to Reach Me
+- Email: abhixxi01@gmail.com  
+- GitHub: [abhi-xxi] (https://https://github.com/abhi-xxi)
